@@ -118,3 +118,30 @@ Founder & Operator of the PUSHXXXX Ecosystem.
 📧 info@pushxxxx.io
 
 All rights reserved.
+
+
+---
+
+## 🔥 PUSHXXXX — Live Trading Access
+
+🔗 **Swap PUSHXXXX ⇆ USDT (DODO — Mainnet)**  
+https://app.dodoex.io/swap/network/bsc-mainnet/56-USDT/56-PUSHXXXX
+
+🖥 **Official Web3 dApp**  
+https://pushxxxx-dapp.pages.dev/
+
+📄 Smart Contract (BSC Mainnet)  
+`0xcC4B377BBA35df0d48AeAAcd445518285f6F7A8E`
+
+---
+
+### Overview
+PUSHXXXX is an algorithmic upward-biased token designed to eliminate traditional dump cycles.
+Market valuation is synchronized via oracle-regulated liquidity curves.
+
+- Anti-crash architecture  
+- Asymmetric supply expansion  
+- Price controlled via PMM Keeper system  
+
+🚀 Live. Usable. Scalable.
+
