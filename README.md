@@ -145,3 +145,8 @@ Market valuation is synchronized via oracle-regulated liquidity curves.
 
 🚀 Live. Usable. Scalable.
 
+## Telegram
+📢 Official Channel: https://t.me/PUSHXXXX_Official
+💬 Investor Relations Chat: https://t.me/PUSHXXXX_IRChat
+
+
